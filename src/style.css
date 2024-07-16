@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.button-row{
+    position: absolute;
+    left: 40%;
+    right: 0;
+    top: 40%;
+}
+
+#clik-btn, #reset{
+    padding: 14px 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    border-radius: 4px;
+}
